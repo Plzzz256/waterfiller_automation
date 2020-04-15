@@ -1,19 +1,3 @@
-# WaterFiller_Automation
-
-[![Author](https://img.shields.io/badge/Author-ianramzy-brightgreen.svg)](https://ianramzy.com)
-![License: CC-NC](https://img.shields.io/badge/License-CCNC-blue.svg)
-[![Donate](https://img.shields.io/badge/Donate-PayPal-brightgreen.svg)](https://paypal.me/ianramzy)
-[![Repo Link](https://img.shields.io/badge/Repo-Link-black.svg)](https://github.com/ianramzy/decentralized-video-chat)
-[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?)](https://github.com/prettier/prettier)
-[![Join the chat at https://gitter.im/zipcall](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zipcall)
-
-
-Decentralized video chat platform powered by WebRTC using Twilio STUN/TURN infrastructure.
-Zipcall provides video quality and latency simply not available with traditional
-technology.
-
-![screenshot](public/images/readmecall.png "Video Calling")
-
 ## Features
 
 <img align="right" width="400" height="auto" src="public/images/preview.gif">
