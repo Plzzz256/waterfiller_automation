@@ -1,6 +1,6 @@
 ## Features
 
-<img align="right" width="400" height="auto" src="public/images/preview.gif">
+<img align="right" width="400" height="auto" src="![Image of Yaktocat](https://octodex.github.com/images/filmtocats.png)">
 
 - Screen sharing
 - Picture in picture
