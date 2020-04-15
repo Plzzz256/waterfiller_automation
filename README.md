@@ -1,7 +1,7 @@
 ## WaterFiller_Automation
-|## Features
 
-<img align="right" width="400" height="auto" src="![Image of Yaktocat](https://octodex.github.com/images/filmtocats.png)">
+## Features
+<img align="right" width="400" height="auto" src="">
 
 - Screen sharing
 - Picture in picture
@@ -15,5 +15,5 @@
 1.Supadett Pinsuwannabut
 2.Krittavit
 3.Chakkarin Prommachan
-![Image of Yaktocat](https://octodex.github.com/images/filmtocats.png)
+
 
