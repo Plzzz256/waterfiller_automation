@@ -10,44 +10,9 @@
 - No download required, entirely browser based
 - Direct peer to peer connection ensures lowest latency
 - Single use disposable chat rooms
+## Our team
+1.Supadett Pinsuwannabut
+2.Krittavit
+3.Chakkarin Prommachan
+![Image of Yaktocat](https://octodex.github.com/images/filmtocats.png)
 
-## Quick start
-
-- You will need to have Node.js installed, this project has been tested with Node version 10.X and 12.X
-- Clone this repo
-
-```
-git clone https://github.com/ianramzy/decentralized-video-chat
-cd decentralized-video-chat
-```
-
-#### Set up credentials
-
-- Rename .env.template to .env
-- Sign up for free twilio account https://www.twilio.com/login
-- Get your Account SID and Auth Token from the Twillio console
-- Fill in your credentials in the .env file
-
-#### Install dependencies
-
-```
-npm install
-```
-
-#### Start the server
-
-```
-npm start
-```
-
-- Open `localhost:3000` in browser
-- If you want to use a client on another computer/network, make sure you publish your server on an HTTPS connection.
-  You can use a service like [ngrok](https://ngrok.com/) for that.
-
-## Contributing
-
-Pull Requests are welcome!
-
-Please run prettier on all of your PRs before submitting, this can be done with `prettier --write` in the project directory
-
-For communication we use Gitter Chat we can be found here: [![Join the chat at https://gitter.im/zipcall](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zipcall)
