@@ -1,7 +1,7 @@
 ## WaterFiller_Automation
 
 ## Features
-<img align="right" width="400" height="auto" src="WatterFiller.png">
+<img align="right" width="400" height="500" src="WatterFiller.png">
 
 - Screen sharing
 - Picture in picture
